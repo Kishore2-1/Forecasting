@@ -23,3 +23,5 @@ This repository presents a comprehensive technical exploration of predictive ana
   - Cleaning Process: Imported into Excel (JQ2J.xlsx), formatted for consistent date handling. Irrelevant data and outliers were removed to ensure a balanced dataset suitable for accurate analysis.
 
 During the cleaning process, each dataset was meticulously prepared in Excel to facilitate subsequent statistical modeling and forecasting techniques such as exponential smoothing, ARIMA, and regression. The cleaned datasets ensured that only relevant and accurate data points were retained, optimizing the reliability and effectiveness of the analytical models employed in this study.
+
+## 
