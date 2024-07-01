@@ -6,19 +6,19 @@ This repository presents a comprehensive technical exploration of predictive ana
 
 ## Datasets
 
-1. K54D: Average Weekly Earnings in the private sector.
+1.**K54D:** Average Weekly Earnings in the private sector.
   - Data Source: Extracted from the Average Weekly Earnings Dataset (ONS).
   - Cleaning Process: The dataset was imported into Excel (K54D.xlsx) and formatted to ensure consistent date columns for chronological analysis. Outliers and irrelevant data were removed to balance the dataset.
 
-2. EAFV: Retail Sales Index for household goods.
+2. **EAFV:** Retail Sales Index for household goods.
   - Data Source: Extracted from the Retail Sales Dataset (ONS).
   - Cleaning Process: Imported into Excel (EAFV.xlsx), formatted to maintain date integrity. The dataset was balanced by removing outliers and irrelevant data, ensuring reliability in trend analysis.
 
-3. K226: Index of Production focusing on crude petroleum and natural gas.
+3. **K226:** Index of Production focusing on crude petroleum and natural gas.
   - Data Source: Extracted from the Index of Production Dataset (ONS).
   - Cleaning Process: Imported into Excel (K226.xlsx), formatted to maintain chronological integrity. Outliers and unnecessary data were removed to enhance data consistency and accuracy.
 
-4. JQ2J: Turnover and orders within manufacturing and business sectors.
+4. **JQ2J:** Turnover and orders within manufacturing and business sectors.
   - Data Source: Extracted from the Turnover and Orders Dataset (ONS).
   - Cleaning Process: Imported into Excel (JQ2J.xlsx), formatted for consistent date handling. Irrelevant data and outliers were removed to ensure a balanced dataset suitable for accurate analysis.
 
